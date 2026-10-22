@@ -1,0 +1,30 @@
+{
+  "project_name": {
+    "value": "Skyline Heights",
+    "confidence": "high"
+  },
+  "location_address": {
+    "value": "Sector 150, Noida Expressway, Noida, Uttar Pradesh - 201310",
+    "confidence": "high"
+  },
+  "price_range": {
+    "value": "Rs. 85 Lakhs to Rs. 1.85 Crore",
+    "confidence": "high"
+  },
+  "unit_types": {
+    "value": "2 BHK, 3 BHK, 4 BHK Penthouse",
+    "confidence": "high"
+  },
+  "area": {
+    "value": "1,050 sq.ft. to 2,100 sq.ft.",
+    "confidence": "high"
+  },
+  "amenities": {
+    "value": "Swimming Pool, Gymnasium, Clubhouse, Children's Play Area, Jogging Track, 24x7 Security, Landscaped Gardens, Badminton Court, Meditation Zone, EV Charging, Smart Home, Covered Parking",
+    "confidence": "high"
+  },
+  "possession_date": {
+    "value": "December 2027",
+    "confidence": "high"
+  }
+}

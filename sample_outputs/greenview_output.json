@@ -1,0 +1,30 @@
+{
+  "project_name": {
+    "value": "Greenview Residences",
+    "confidence": "high"
+  },
+  "location_address": {
+    "value": "Sector 103, Dwarka Expressway, Gurgaon, Haryana - 122006",
+    "confidence": "high"
+  },
+  "price_range": {
+    "value": "Not found",
+    "confidence": "not_found"
+  },
+  "unit_types": {
+    "value": "2 BHK, 3 BHK",
+    "confidence": "high"
+  },
+  "area": {
+    "value": "950 sq.ft. to 1,400 sq.ft.",
+    "confidence": "high"
+  },
+  "amenities": {
+    "value": "Landscaped Garden, Car Parking, Children's Playground, Community Hall, 24/7 Water Supply, Power Backup, Gated Security",
+    "confidence": "high"
+  },
+  "possession_date": {
+    "value": "Not found",
+    "confidence": "not_found"
+  }
+}
